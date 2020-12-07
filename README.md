@@ -60,7 +60,7 @@ int main ()
   |3      |2          |5      |mike      |
   |1      | 3         |4      |veronica  |
    
-   sooo, from the above table we can see that number of times of odd is greater soo verinica is winner of game.
+   soo, from the above table we can see that number of times of odd is greater soo verinica is winner of game.
 
 
 
