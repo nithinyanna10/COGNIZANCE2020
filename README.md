@@ -45,9 +45,9 @@ int main ()
 
 ># _Related Images_ ;-
 
-1. ![possibilities of numbers](https://image.shutterstock.com/image-vector/one-two-three-four-five-600w-1111524644.jpg)
+1. ![announcing odd or even ](https://www.wikihow.com/images/thumb/0/02/Play-Odds-and-Evens-Step-1.jpg/aid11839773-v4-728px-Play-Odds-and-Evens-Step-1.jpg)
 2. ![couting numbers to display their numbers](https://www.wikihow.com/Play-Odds-and-Evens#/Image:Play-Odds-and-Evens-Step-3.jpg)
-3. ![win of odd](https://www.shutterstock.com/image-vector/number-nine-made-fingers-3603048)
+3. ![win of odd](https://image.shutterstock.com/image-vector/number-seven-fingers-600w-3630068.jpg)
 4. ![win of even](https://www.pinterest.ca/pin/152770612330070236/)
 5. ![making score card](https://www.wikihow.com/Play-Odds-and-Evens#/Image:Play-Odds-and-Evens-Step-2.jpg)
 
